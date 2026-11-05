@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Build output
+build/
+dist/
+*.spec
+
+# Local releases / archives
+*.zip
+
+# Game files and local backups
+WithTheDevilishHer_Data/
+With the Devilish Her*/
+WDH_RU_Backup/
+WDH_RU_TMP_*/
+
+# OS/editor
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

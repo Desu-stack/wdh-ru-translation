@@ -1,0 +1,7 @@
+* text=auto
+
+*.bsdiff binary
+*.range binary
+*.exe binary
+*.dll binary
+*.zip binary

@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "patch_name": "With the Devilish Her — Russian Translation",
+  "patch_version": "1.1.0",
+  "game": {
+    "exe": "WithTheDevilishHer.exe",
+    "exe_size": 654336,
+    "exe_sha256": "26134452b07f3a94b9f6a0c8daeb4cfb286c6afd97be333772c8cfcb8f2bf5d9"
+  },
+  "backup_dir": "WDH_RU_Backup",
+  "files": [
+    {
+      "path": "WithTheDevilishHer_Data/Managed/Assembly-CSharp.dll",
+      "original_size": 10439168,
+      "original_sha256": "58063218fefdeb08e06f0df07a85ebacae6fdd49e29b4be7eba94e41389aa1c0",
+      "patched_size": 10421760,
+      "patched_sha256": "ac5b248b5601a0b99a48930a4e09cc99e95a420c4bb80fdbd523f9fd38002073",
+      "method": "bsdiff",
+      "payload": "payload/Assembly-CSharp.dll.bsdiff",
+      "payload_size": 320080,
+      "payload_sha256": "e8b31ad7b1ac5714c7794cc8b927ac39a40bb6bebf46b25d4316e137248bfa5f"
+    },
+    {
+      "path": "WithTheDevilishHer_Data/resources.assets",
+      "original_size": 269635364,
+      "original_sha256": "8de7a7961f418c6df344165f1e62194dc6902b3b7f9ca7eb5bee3b7a52cc7eda",
+      "patched_size": 270220112,
+      "patched_sha256": "e9dbff16eed10a1d0b2f5bb591d742a22ca02275148a9c41f857aacd21f717cb",
+      "method": "bsdiff",
+      "payload": "payload/resources.assets.bsdiff",
+      "payload_size": 364038,
+      "payload_sha256": "14c051d4fc3f06822fc991f3ee371ce25b728b0af6dbe4749c492ba7f8443d24"
+    },
+    {
+      "path": "WithTheDevilishHer_Data/resources.assets.resS",
+      "original_size": 2073600,
+      "original_sha256": "fbaf774ad10e6e196dffa95bab8a66e8fa93c384d03768ec4369ac6a3f2d8722",
+      "patched_size": 2073600,
+      "patched_sha256": "f5b9b4bb32ba4034306a9bb9b7351674f77f01a1233b2c7d696d0267aee7895d",
+      "method": "range",
+      "offset": 4659751520,
+      "range_size": 2073600,
+      "payload": "payload/resources.assets.resS.range",
+      "payload_size": 2073600,
+      "payload_sha256": "f5b9b4bb32ba4034306a9bb9b7351674f77f01a1233b2c7d696d0267aee7895d"
+    },
+    {
+      "path": "WithTheDevilishHer_Data/level1",
+      "original_size": 940432,
+      "original_sha256": "f876f107912dcc936cd3c835c43e71a5325c94b0f60b1a753721a38319ade6f2",
+      "patched_size": 940440,
+      "patched_sha256": "83275154672c351e39d5255bca3372f5033696b75881462f6b9eee3a56d50fd0",
+      "method": "bsdiff",
+      "payload": "payload/level1.bsdiff",
+      "payload_size": 316,
+      "payload_sha256": "80ba1bc8ab146b908186342fe5b9e6a2c82fa69a2d820639b69e73a6950aa858"
+    },
+    {
+      "path": "WithTheDevilishHer_Data/StreamingAssets/DLC_FULL/dlc_scenario",
+      "original_size": 155247,
+      "original_sha256": "54674eabda5a8e10083f00b2a8865d5eec07603bc60a56d7f1267632d5b24bb4",
+      "patched_size": 1125355,
+      "patched_sha256": "c44fca7e50c84a75cbe9434969f0e78371b93d64a8965f7353736a321f44fbb4",
+      "method": "bsdiff",
+      "payload": "payload/dlc_scenario.bsdiff",
+      "payload_size": 160730,
+      "payload_sha256": "ca66a026db0b53c858a2dbde4fd648030ce7c2cbfee18db94eb8cfc019d4757d"
+    },
+    {
+      "path": "WithTheDevilishHer_Data/StreamingAssets/DLC_FULL/dlc_text_patch.json",
+      "original_size": 4568,
+      "original_sha256": "f37faa0a74bbc7a6ed858269c7ccabbde640873577124427439c014fda6c2046",
+      "patched_size": 88540,
+      "patched_sha256": "f2b9825b3011728d01c2b8b0adf95b3886b11942e28d1819350cf4d936555750",
+      "method": "replace",
+      "payload": "payload/dlc_text_patch.json",
+      "payload_size": 88540,
+      "payload_sha256": "f2b9825b3011728d01c2b8b0adf95b3886b11942e28d1819350cf4d936555750"
+    }
+  ],
+  "untouched": [
+    "WithTheDevilishHer_Data/StreamingAssets/DLC_FULL/dlc_cg — телефонные чаты остаются оригинальными."
+  ],
+  "notes": [
+    "Патч не содержит файлов игры. Нужна чистая копия поддерживаемой версии.",
+    "Перед установкой создаётся резервная копия WDH_RU_Backup; удаление — этим же патчером.",
+    "Патчер не использует сеть, реестр, службы и не требует прав администратора.",
+    "Во время установки игра должна быть закрыта.",
+    "Изображение About переведено и меняется вместе с патчем; телефонные чаты пока остаются английскими."
+  ]
+}

@@ -1,0 +1,2752 @@
+{
+    "entries": [
+        {
+            "key": "Cloth_ClothTypeName_000",
+            "value": "Всё"
+        },
+        {
+            "key": "Cloth_ClothTypeName_102",
+            "value": "Майка"
+        },
+        {
+            "key": "Cloth_ClothTypeName_103",
+            "value": "Рубашка"
+        },
+        {
+            "key": "Cloth_ClothTypeName_120",
+            "value": "Рубашка"
+        },
+        {
+            "key": "Cloth_ClothTypeName_220",
+            "value": "Рубашка"
+        },
+        {
+            "key": "Cloth_ClothTypeName_253",
+            "value": "Рубашка"
+        },
+        {
+            "key": "Cloth_ClothTypeName_263",
+            "value": "Рубашка"
+        },
+        {
+            "key": "Cloth_PartsTypeName_TateLine",
+            "value": "Вертикаль"
+        },
+        {
+            "key": "Coodinate_CoodinateItemDeactiveMessage_Button",
+            "value": "ОК"
+        },
+        {
+            "key": "Coodinate_NonItem_LabelText",
+            "value": "Пусто"
+        },
+        {
+            "key": "DemoTitle_Title",
+            "value": "Live2D Sexual\nПробная версия"
+        },
+        {
+            "key": "KeitaiUri_yokujitu_ScenarioName",
+            "value": "【 Ябу-аукцион 】"
+        },
+        {
+            "key": "KeitaiUri_yokujitu_ScenarioText3",
+            "value": "Ваш лот успешно продан с аукциона!"
+        },
+        {
+            "key": "LifeLog_Branch_Mukaeture",
+            "value": "Теперь можно «встретить её с желанием»"
+        },
+        {
+            "key": "LifeLog_Branch_Soto_UmiNisi",
+            "value": "Теперь можно пойти на «Пляж Ваигиги (запад)»"
+        },
+        {
+            "key": "LifeLog_HigashiUmiOpen",
+            "value": "Теперь можно пойти на «Пляж Ваигиги (восток)»"
+        },
+        {
+            "key": "LifeScene_ClothPresentMessage_501_SetSyatu_Button1",
+            "value": "ОК"
+        },
+        {
+            "key": "LifeScene_ErozonItemArrivalMessage_Button1",
+            "value": "ОК"
+        },
+        {
+            "key": "LifeScene_Mukae_ScenarioText1",
+            "value": "(Скоро Марина должна вернуться домой......)"
+        },
+        {
+            "key": "LifeScene_Mukae_ScenarioText2",
+            "value": "（Пойду её встречу……！）"
+        },
+        {
+            "key": "LifeScene_PresentMessage_Button1",
+            "value": "ОК"
+        },
+        {
+            "key": "LifeScene_ScenarioPeriodShift_Nin2_Message_Button1",
+            "value": "ОК"
+        },
+        {
+            "key": "MarinaInfo_GoSchool",
+            "value": "Нет дома"
+        },
+        {
+            "key": "Market_DeletePermissionMessage_Button1",
+            "value": "Назад"
+        },
+        {
+            "key": "Market_DeletePermissionMessage_Text",
+            "value": "Точно выбросить этот предмет?"
+        },
+        {
+            "key": "Market_JenreName_Secret",
+            "value": "???"
+        },
+        {
+            "key": "Market_NonSelectAlertMessage_Button1",
+            "value": "ОК"
+        },
+        {
+            "key": "Option_DeletedAllClothThumbnail_Button1",
+            "value": "ОК"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_OmamoriAttention",
+            "value": "\n\nОставим просьбы на спокойное время\n(*Пока недоступно)"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_AdultGoods_LovePotion",
+            "value": "Любовные духи"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Secret",
+            "value": "Запись"
+        },
+        {
+            "key": "Sex_LovePotionUsePermission_Button1",
+            "value": "Отмена"
+        },
+        {
+            "key": "Sex_LovePotionUsePermission_Text",
+            "value": "Попробовать использовать любовные духи?\n\n（＊Похоже, они израсходуются за один раз）"
+        },
+        {
+            "key": "Status_Profile_Height",
+            "value": "168 см♡"
+        },
+        {
+            "key": "Status_Profile_KoukandoTitle1",
+            "value": "Сестра друга"
+        },
+        {
+            "key": "Status_Profile_Secret",
+            "value": "Запись"
+        },
+        {
+            "key": "Status_Profile_Secret_Zenkaku",
+            "value": "???"
+        },
+        {
+            "key": "Status_Profile_Weight",
+            "value": "50 кг♡"
+        },
+        {
+            "key": "TextWindowUI_ButtonBalloonText_Save",
+            "value": "Запись"
+        },
+        {
+            "key": "TextWindowUUI_ButtonBalloonText_Skip",
+            "value": "Пропуск"
+        },
+        {
+            "key": "TextWindowUUI_ButtonBalloonText_Auto",
+            "value": "Авто"
+        },
+        {
+            "key": "TextWindowUUI_ButtonBalloonText_Option",
+            "value": "Опции"
+        },
+        {
+            "key": "TextWindowUUI_ButtonBalloonText_Load",
+            "value": "Загрузка"
+        },
+        {
+            "key": "LifeScene_PlayerReNameMessage_Text",
+            "value": "Введите ваше имя"
+        },
+        {
+            "key": "LifeScene_PlayerReNameMessage_Button1",
+            "value": "ОК"
+        },
+        {
+            "key": "LifeScene_PlayerReNameMessage_Button2",
+            "value": "Назад"
+        },
+        {
+            "key": "LifeScene_PlayerReNamePermissionMessage_Button1",
+            "value": "Да"
+        },
+        {
+            "key": "LifeScene_PlayerReNamePermissionMessage_Button2",
+            "value": "Нет"
+        },
+        {
+            "key": "LifeScene_OpeningSkipMessage_Text",
+            "value": "Пропустить вступление и обучение?"
+        },
+        {
+            "key": "LifeScene_OpeningSkipMessage_Button1",
+            "value": "Пропуск"
+        },
+        {
+            "key": "LifeScene_OpeningSkipMessage_Button2",
+            "value": "Начать"
+        },
+        {
+            "key": "SaveDataSlot_GameInfo_Status1",
+            "value": "Гостья"
+        },
+        {
+            "key": "SaveDataSlot_GameInfo_Status2",
+            "value": "Живём вместе"
+        },
+        {
+            "key": "SaveDataSlot_GameInfo_Status3",
+            "value": "Брак"
+        },
+        {
+            "key": "SaveDataSlot_GameInfo_Status4",
+            "value": "Беременна"
+        },
+        {
+            "key": "SaveDataSlot_GameInfo_Status5",
+            "value": "Вечная любовь"
+        },
+        {
+            "key": "SaveLoad_ReturnTitlePermission_Text",
+            "value": "Вернуться в главное меню?"
+        },
+        {
+            "key": "SaveLoad_ReturnTitlePermission_Button1",
+            "value": "Нет"
+        },
+        {
+            "key": "SaveLoad_ReturnTitlePermission_Button2",
+            "value": "Да"
+        },
+        {
+            "key": "Option_Volume_BGM_Title",
+            "value": "Звук BGM"
+        },
+        {
+            "key": "Option_Volume_SE_Title",
+            "value": "Звук SE"
+        },
+        {
+            "key": "Option_Volume_Voice_Title",
+            "value": "Голос"
+        },
+        {
+            "key": "Option_TextWindowAlpha_Title",
+            "value": "Прозрачность"
+        },
+        {
+            "key": "Option_TextSpeed_Title",
+            "value": "Скорость"
+        },
+        {
+            "key": "Option_CGGion_Title",
+            "value": "Звуки"
+        },
+        {
+            "key": "Option_Danmen_Title",
+            "value": "Показ в разрезе"
+        },
+        {
+            "key": "Option_ClothThumbnailCapture_Title",
+            "value": "Автоснимок наряда для миниатюр\n<size=22>(Отключение может уменьшить размер сохранений)"
+        },
+        {
+            "key": "Option_FullSceen_Title",
+            "value": "Полный экран"
+        },
+        {
+            "key": "Option_ScreenSize_Title",
+            "value": "Размер окна"
+        },
+        {
+            "key": "Option_ReadScenarioSkip_Title",
+            "value": "Пропуск"
+        },
+        {
+            "key": "Option_DeleteAllClothThumbnailPermission_Text",
+            "value": "Оставить ранее сделанные миниатюры?"
+        },
+        {
+            "key": "Option_DeleteAllClothThumbnailPermission_Button1",
+            "value": "Оставить"
+        },
+        {
+            "key": "Option_DeleteAllClothThumbnailPermission_Button2",
+            "value": "Удалить"
+        },
+        {
+            "key": "Option_ReturnTitlePermission_Text",
+            "value": "Вернуться в главное меню?"
+        },
+        {
+            "key": "Option_ReturnTitlePermission_Button1",
+            "value": "Нет"
+        },
+        {
+            "key": "Option_ReturnTitlePermission_Button2",
+            "value": "Да"
+        },
+        {
+            "key": "Option_DeletedAllClothThumbnail_Text",
+            "value": "Все миниатюры нарядов удалены"
+        },
+        {
+            "key": "DayNight_About_Morning",
+            "value": "Утро"
+        },
+        {
+            "key": "DayNight_About_Noon",
+            "value": "День"
+        },
+        {
+            "key": "DayNight_About_Dusk",
+            "value": "Вечер"
+        },
+        {
+            "key": "DayNight_About_Night",
+            "value": "Ночь"
+        },
+        {
+            "key": "DayNight_About_MidNight",
+            "value": "Ночь"
+        },
+        {
+            "key": "WeekDay_None",
+            "value": "－"
+        },
+        {
+            "key": "WeekDay_Monday",
+            "value": "Пн"
+        },
+        {
+            "key": "WeekDay_Tuesday",
+            "value": "Вт"
+        },
+        {
+            "key": "WeekDay_Wednesday",
+            "value": "Ср"
+        },
+        {
+            "key": "WeekDay_Thursday",
+            "value": "Чт"
+        },
+        {
+            "key": "WeekDay_Friday",
+            "value": "Пт"
+        },
+        {
+            "key": "WeekDay_Saturday",
+            "value": "Сб"
+        },
+        {
+            "key": "WeekDay_Sunday",
+            "value": "Вс"
+        },
+        {
+            "key": "OwnItemMenu_ButtonName",
+            "value": "Вещи"
+        },
+        {
+            "key": "OwnItemMenu_NonItem_LabelText",
+            "value": "Пусто"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_ButtonCancel",
+            "value": "Отмена"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_ButtonDone",
+            "value": "ОК"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_ButtonUse",
+            "value": "Исп."
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_ButtonDecoration",
+            "value": "Украсить"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_ButtonPutAway",
+            "value": "Убрать"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_ButtonDecorationCancel",
+            "value": "Как есть"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_ButtonLook",
+            "value": "Осмотр"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_ItemUseAttention",
+            "value": "\n\n(*Пока недоступно)"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_Omotya1",
+            "value": "\n\n☆Поиграть с Мариной!☆"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_Omotya2",
+            "value": "\n\n☆Можно украсить комнату☆"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_Ero",
+            "value": "\n\n♡Можно использовать для ночного секса♡"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_Book01",
+            "value": "\nУровень мастерства +3"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_Book02",
+            "value": "\nПривязанность +5"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_Book03",
+            "value": "\nПохоть +4"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_BookAttention",
+            "value": "\n\n(*Использование занимает один ход)"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_Yubiwa",
+            "value": "\n\n♡Нужно для предложения руки и сердца♡"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_Book04",
+            "value": "\n\n♡Готовы сделать предложение?♡"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_Book04Attention",
+            "value": "\n\nОставим важный разговор на подходящий момент\n(*Пока недоступно)"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_Yurikago",
+            "value": "\n\n♡Готовимся к малышу♡"
+        },
+        {
+            "key": "OwnItem_ItemDetailsMessage_Omamori",
+            "value": "\n\n♡Кажется, скоро будет малыш?♡"
+        },
+        {
+            "key": "MarinaInfo_Hatu",
+            "value": "Недовольна"
+        },
+        {
+            "key": "LifeSceneMenu_InformationText_Default",
+            "value": "Чем заняться?"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Secret",
+            "value": "???"
+        },
+        {
+            "key": "LifeSceneMenu_InfoName_Marina",
+            "value": "Марина"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Marina_Talk",
+            "value": "Поговорить"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Marina_Play",
+            "value": "Поиграть"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Marina_Hug",
+            "value": "Обнять"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Marina_Think",
+            "value": "Подумать о ней"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Marina_Look",
+            "value": "Уставиться"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Marina_Kiss",
+            "value": "Поцелуй"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Marina_SeeOff",
+            "value": "Проводить"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Marina_Pat",
+            "value": "Погладить"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Marina_LapPilow",
+            "value": "Полежать на коленках"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Marina_Toilet",
+            "value": "Туалет"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Marina_BathTime",
+            "value": "Ванная"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Marina_Sex",
+            "value": "Секс"
+        },
+        {
+            "key": "LifeSceneMenu_InfoName_Coodinate",
+            "value": "Сменить одежду"
+        },
+        {
+            "key": "LifeSceneMenu_InfoName_Work",
+            "value": "Работа"
+        },
+        {
+            "key": "LifeSceneMenu_InfoName_SmartPhone",
+            "value": "Телефон"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_SmartPhone_Market_BeforeED",
+            "value": "Продать"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_SmartPhone_Market",
+            "value": "Продать/Подарить"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_SmartPhone_Erozon",
+            "value": "Онлайн-покупки"
+        },
+        {
+            "key": "LifeSceneMenu_InfoName_GoOut",
+            "value": "Выйти"
+        },
+        {
+            "key": "LifeSceneMenu_InfoName_Sleep",
+            "value": "Спать"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Sleep_Normal",
+            "value": "Спать"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Sleep_Ona",
+            "value": "Подрочить"
+        },
+        {
+            "key": "LifeSceneMenu_ButtonName_Sleep_Day",
+            "value": "До утра"
+        },
+        {
+            "key": "LifeSceneMenu_InfoName_Status",
+            "value": "Профиль"
+        },
+        {
+            "key": "LifeScene_PresentMessage_Text",
+            "value": "Купленный предмет отдан Марине!"
+        },
+        {
+            "key": "LifeScene_ClothPresentMessage_Text",
+            "value": "Отдал Марине сшитую одежду!\n★Добавлено в Сменить Одежду!"
+        },
+        {
+            "key": "LifeScene_ErozonItemArrivalMessage_Text",
+            "value": "Заказ из онлайн-магазина пришёл!"
+        },
+        {
+            "key": "LifeScene_ClothPresentMessage_501_SetSyatu_Text",
+            "value": "Отдал Марине сшитую одежду!\n★Добавлено в список Пошлой Сменной Одежды!"
+        },
+        {
+            "key": "LifeScene_ScenarioPeriodShift_Nin2_Message_Text",
+            "value": "Теперь можно шить одежду для беременных\n<size=35%>\n</size><size=95%>Живот Марины растёт,\nи вскоре она уже не сможет носить обычную одежду.\nДавайте сошьём ей одежду для беременных.</size>"
+        },
+        {
+            "key": "LifeScene_SexCoodinatePermissionMessage_Text",
+            "value": "Надеть на Марину что-нибудь соблазнительное перед этим?"
+        },
+        {
+            "key": "LifeScene_SexCoodinatePermissionMessage_Button1",
+            "value": "Сменить ей одежду"
+        },
+        {
+            "key": "LifeScene_SexCoodinatePermissionMessage_Button2",
+            "value": "По настроению Марины"
+        },
+        {
+            "key": "LifeScene_SexCoodinatePermissionMessage_Button3",
+            "value": "Всё равно"
+        },
+        {
+            "key": "LifeScene_SexCoodinatePermissionMessage_Button4",
+            "value": "Не хочу секса"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Cancel",
+            "value": "Отмена"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Yu1_1_1",
+            "value": "Тема про одежду 1"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Yu1_1_2",
+            "value": "Тема: телешоу 1"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Yu1_2_1",
+            "value": "Тема про одежду 2"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Yu1_2_2",
+            "value": "Тема про еду 1"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Yu1_3_1",
+            "value": "Тема про одежду 3"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Yu1_3_2",
+            "value": "Тема про увлечения 1"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Yu1_4",
+            "value": "Тема про увлечения 2"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Ayu_1_1",
+            "value": "Тема про грозу"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Ayu_1_2",
+            "value": "Тема про драки"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Love1_1_1",
+            "value": "Тема про семью"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Love1_1_2",
+            "value": "Тема про группу крови"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Love1_2_1",
+            "value": "Тема про увлечения 3"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Love1_2_2",
+            "value": "Тема про еду 2"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Love1_3_1",
+            "value": "Тема: день рождения"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Love1_3_2",
+            "value": "Тема про умения"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Love1_4",
+            "value": "Тема: телешоу 2"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Love1_5",
+            "value": "Тема про фигуру"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Love2_1_1",
+            "value": "Тема про увлечения 4"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Love2_1_2",
+            "value": "Тема про еду 3"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Love2_2",
+            "value": "Тема про увлечения 5"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Kekkon",
+            "value": "Тема про брак"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Ninsin",
+            "value": "Тема про беременность"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Syussan_1",
+            "value": "Тема про роды"
+        },
+        {
+            "key": "LifeScene_SpecialTalk_Syussan_2",
+            "value": "Тема про дочку"
+        },
+        {
+            "key": "LifeScene_Kaiwa_etc",
+            "value": "Другие темы"
+        },
+        {
+            "key": "LifeScene_Asobi_Cancel",
+            "value": "Отмена"
+        },
+        {
+            "key": "LifeScene_Asobi_asobi_b",
+            "value": "Отелло"
+        },
+        {
+            "key": "LifeScene_Asobi_asobi_c",
+            "value": "Карты"
+        },
+        {
+            "key": "LifeScene_Asobi_asobi_a",
+            "value": "Гонки"
+        },
+        {
+            "key": "LifeScene_Asobi_asobi_d",
+            "value": "Хит-игра"
+        },
+        {
+            "key": "LifeScene_Asobi_asobi_e",
+            "value": "Эроигра"
+        },
+        {
+            "key": "LifeScene_Asobi_HAsobi",
+            "value": "В доктора"
+        },
+        {
+            "key": "LifeScene_Asobi_HAsobi_syo",
+            "value": "Осмотр груди"
+        },
+        {
+            "key": "LifeScene_Asobi_HAsobi_Isya",
+            "value": "Осмотр киски"
+        },
+        {
+            "key": "LifeScene_Think_Cancel",
+            "value": "Отмена"
+        },
+        {
+            "key": "LifeScene_Think_SmartPhone",
+            "value": "Сообщения"
+        },
+        {
+            "key": "LifeScene_Think_Marina",
+            "value": "Думать о Марине"
+        },
+        {
+            "key": "LifeScene_Think_Baggage",
+            "value": "Порыться в вещах"
+        },
+        {
+            "key": "LifeScene_Mukae",
+            "value": "Встретить как обычно"
+        },
+        {
+            "key": "LifeScene_Mukaedaki",
+            "value": "Встретить со всей страстью"
+        },
+        {
+            "key": "LifeScene_Mukaeture",
+            "value": "Встретить с желанием"
+        },
+        {
+            "key": "LifeScene_Toire_Cancel",
+            "value": "Отмена"
+        },
+        {
+            "key": "LifeScene_Toirenock",
+            "value": "Постучать в дверь"
+        },
+        {
+            "key": "LifeScene_Toiremimi",
+            "value": "Тихо подслушать"
+        },
+        {
+            "key": "LifeScene_Toirehairu",
+            "value": "Сразу войти"
+        },
+        {
+            "key": "LifeScene_Furo_Cancel",
+            "value": "Отмена"
+        },
+        {
+            "key": "LifeScene_Furo1",
+            "value": "Одному"
+        },
+        {
+            "key": "LifeScene_Furo2",
+            "value": "Помыться вдвоём"
+        },
+        {
+            "key": "LifeScene_Furo0",
+            "value": "Глянуть"
+        },
+        {
+            "key": "LifeScene_SotoSasoi_Cancel",
+            "value": "Отмена"
+        },
+        {
+            "key": "LifeScene_SotoSasoi",
+            "value": "Позвать Марину"
+        },
+        {
+            "key": "LifeScene_SotoSasoi_Hitori",
+            "value": "Выйти одному"
+        },
+        {
+            "key": "LifeScene_SotoSelectBranch_Cancel",
+            "value": "Отмена"
+        },
+        {
+            "key": "LifeScene_SotoSelectBranch_mise",
+            "value": "Город Греха (Ткани, Товары, Аксессуары)"
+        },
+        {
+            "key": "LifeScene_SotoSelectBranch_cafe",
+            "value": "Добору (кафе)"
+        },
+        {
+            "key": "LifeScene_SotoSelectBranch_hon",
+            "value": "ЗУТАЯ (книжный)"
+        },
+        {
+            "key": "LifeScene_SotoSelectBranch_Park",
+            "value": "Парк Орешек"
+        },
+        {
+            "key": "LifeScene_SotoSelectBranch_Yuuenti",
+            "value": "Парк Экстаза (аттракционы)"
+        },
+        {
+            "key": "LifeScene_SotoSelectBranch_Nisi_umi",
+            "value": "Ваигиги (запад)"
+        },
+        {
+            "key": "LifeScene_SotoSelectBranch_Higasi_umi",
+            "value": "Ваигиги (восток)"
+        },
+        {
+            "key": "LifeScene_SotoSelectBranch_onsen",
+            "value": "Источники Додзэн"
+        },
+        {
+            "key": "LifeScene_SotoSelectBranch_rabuho",
+            "value": "Отель любви・SPICE"
+        },
+        {
+            "key": "LifeScene_SotoSelectBranch_SangoScenarioText",
+            "value": "*В зависимости от места малышку нянчит няня♡\nВ родительских заботах важно иногда отдыхать!♡"
+        },
+        {
+            "key": "LifeScene_SotoSelectBranch_Kaeru",
+            "value": "Домой"
+        },
+        {
+            "key": "Cloth_ClothTypeName_101",
+            "value": "Футболка"
+        },
+        {
+            "key": "Cloth_ClothTypeName_104",
+            "value": "Водолазка"
+        },
+        {
+            "key": "Cloth_ClothTypeName_105",
+            "value": "Бретели"
+        },
+        {
+            "key": "Cloth_ClothTypeName_106",
+            "value": "Топ-бандо"
+        },
+        {
+            "key": "Cloth_ClothTypeName_107",
+            "value": "Особое (верх)"
+        },
+        {
+            "key": "Cloth_ClothTypeName_201",
+            "value": "Юбка базовая"
+        },
+        {
+            "key": "Cloth_ClothTypeName_202",
+            "value": "С запахом"
+        },
+        {
+            "key": "Cloth_ClothTypeName_203",
+            "value": "Юбка в складку"
+        },
+        {
+            "key": "Cloth_ClothTypeName_204",
+            "value": "Полускладка"
+        },
+        {
+            "key": "Cloth_ClothTypeName_205",
+            "value": "Пышная юбка"
+        },
+        {
+            "key": "Cloth_ClothTypeName_206",
+            "value": "Юбка-русалка"
+        },
+        {
+            "key": "Cloth_ClothTypeName_207",
+            "value": "Юбка-волан"
+        },
+        {
+            "key": "Cloth_ClothTypeName_208",
+            "value": "Шорты"
+        },
+        {
+            "key": "Cloth_ClothTypeName_209",
+            "value": "Джинсы"
+        },
+        {
+            "key": "Cloth_ClothTypeName_210",
+            "value": "Корот. складка"
+        },
+        {
+            "key": "Cloth_ClothTypeName_211",
+            "value": "Особое (низ)"
+        },
+        {
+            "key": "Cloth_ClothTypeName_250",
+            "value": "Кроп-топ"
+        },
+        {
+            "key": "Cloth_ClothTypeName_251",
+            "value": "Беременным A"
+        },
+        {
+            "key": "Cloth_ClothTypeName_252",
+            "value": "Беременным B"
+        },
+        {
+            "key": "Cloth_ClothTypeName_260",
+            "value": "Кроп-топ"
+        },
+        {
+            "key": "Cloth_ClothTypeName_261",
+            "value": "Беременным A"
+        },
+        {
+            "key": "Cloth_ClothTypeName_262",
+            "value": "Беременным B"
+        },
+        {
+            "key": "Cloth_ClothTypeName_301",
+            "value": "Носки"
+        },
+        {
+            "key": "Cloth_ClothTypeName_302",
+            "value": "Чулки"
+        },
+        {
+            "key": "Cloth_ClothTypeName_303",
+            "value": "Высокие"
+        },
+        {
+            "key": "Cloth_ClothTypeName_304",
+            "value": "Короткие"
+        },
+        {
+            "key": "Cloth_ClothTypeName_305",
+            "value": "Колготки"
+        },
+        {
+            "key": "Cloth_ClothTypeName_306",
+            "value": "Свободные носки 1"
+        },
+        {
+            "key": "Cloth_ClothTypeName_307",
+            "value": "Свободные носки 2"
+        },
+        {
+            "key": "Cloth_ClothTypeName_401",
+            "value": "Лифчик"
+        },
+        {
+            "key": "Cloth_ClothTypeName_402",
+            "value": "Трусики"
+        },
+        {
+            "key": "Cloth_ClothTypeName_501",
+            "value": "Комплект"
+        },
+        {
+            "key": "Cloth_ClothTypeName_603",
+            "value": "Уши"
+        },
+        {
+            "key": "Cloth_ClothTypeName_604",
+            "value": "Голова"
+        },
+        {
+            "key": "Cloth_ClothTypeName_605",
+            "value": "Шея"
+        },
+        {
+            "key": "Cloth_ClothTypeName_606",
+            "value": "Рот"
+        },
+        {
+            "key": "Cloth_ClothTypeName_607",
+            "value": "Глаза"
+        },
+        {
+            "key": "Cloth_ClothTypeName_611",
+            "value": "Голова"
+        },
+        {
+            "key": "Cloth_ClothTypeName_612",
+            "value": "Шея"
+        },
+        {
+            "key": "Cloth_ClothTypeName_613",
+            "value": "Носки"
+        },
+        {
+            "key": "Cloth_ClothTypeName_701",
+            "value": "Причёска"
+        },
+        {
+            "key": "Cloth_PartsTypeName_MainBase",
+            "value": "Основная ткань"
+        },
+        {
+            "key": "Cloth_PartsTypeName_MainOp1_13",
+            "value": "Верхняя ткань"
+        },
+        {
+            "key": "Cloth_PartsTypeName_MainOp14_20",
+            "value": "Покров"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Ribbon",
+            "value": "Лента"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Fril",
+            "value": "Волан"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Lace",
+            "value": "Круж."
+        },
+        {
+            "key": "Cloth_PartsTypeName_Eri",
+            "value": "Ворот"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Sode",
+            "value": "Рукав"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Khimo",
+            "value": "Бретель"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Button",
+            "value": "Пугов."
+        },
+        {
+            "key": "Cloth_PartsTypeName_Belt",
+            "value": "Пояс"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Chain",
+            "value": "Цепь"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Rose",
+            "value": "Роза"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Brooch",
+            "value": "Брошь"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Tie",
+            "value": "Галстук"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Fasner",
+            "value": "Молния"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Ke01",
+            "value": "Мех ①"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Ke02",
+            "value": "Мех ②"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Patch",
+            "value": "Нашивка"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Pocket",
+            "value": "Карман"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Line",
+            "value": "Полоса"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Pattern",
+            "value": "Узор"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Onepo",
+            "value": "Акцент"
+        },
+        {
+            "key": "Cloth_PartsTypeName_Ana",
+            "value": "Вырез"
+        },
+        {
+            "key": "Work_ClothCategory_Secret",
+            "value": "???"
+        },
+        {
+            "key": "Work_ClothCategory_Tops",
+            "value": "Верх"
+        },
+        {
+            "key": "Work_ClothCategory_Bottoms",
+            "value": "Низ"
+        },
+        {
+            "key": "Work_ClothCategory_Socks",
+            "value": "Носки"
+        },
+        {
+            "key": "Work_ClothCategory_Maternity",
+            "value": "Одежда для беременных"
+        },
+        {
+            "key": "Work_ClothType_Secret",
+            "value": "???"
+        },
+        {
+            "key": "Work_ClothPartsCategory_Material",
+            "value": "Ткань"
+        },
+        {
+            "key": "Work_ClothPartsCategory_Ribbon",
+            "value": "Лента"
+        },
+        {
+            "key": "Work_ClothPartsCategory_FrillAndLace",
+            "value": "Оборки/Кружево"
+        },
+        {
+            "key": "Work_ClothPartsCategory_CollarAndSleeve",
+            "value": "Воротник/Рукав"
+        },
+        {
+            "key": "Work_ClothPartsCategory_Accessory",
+            "value": "Аксессуар"
+        },
+        {
+            "key": "Work_ClothPartsCategory_Etc",
+            "value": "Прочее"
+        },
+        {
+            "key": "Work_ClothSelectBackButton",
+            "value": "Прекратить шитьё"
+        },
+        {
+            "key": "Work_ClothSelectDoneButton",
+            "value": "Далее →"
+        },
+        {
+            "key": "Work_BackClothSelectWorkPermission_Text",
+            "value": "Вернуться на шаг назад?\n\n(*Незаконченная одежда не сохранится)"
+        },
+        {
+            "key": "Work_BackClothSelectWorkPermission_Button1",
+            "value": "Нет"
+        },
+        {
+            "key": "Work_BackClothSelectWorkPermission_Button2",
+            "value": "Да"
+        },
+        {
+            "key": "Work_WorkEndPermission_Text",
+            "value": "Прекратить шитьё?\n\n(*Незаконченная одежда не сохранится)"
+        },
+        {
+            "key": "Work_WorkEndPermission_Button1",
+            "value": "Нет"
+        },
+        {
+            "key": "Work_WorkEndPermission_Button2",
+            "value": "Да"
+        },
+        {
+            "key": "Work_MaterialUseOverInformation_Text",
+            "value": "Не хватает материалов...! \nНадо сходить в магазин за материалами..."
+        },
+        {
+            "key": "Work_MaterialUseOverInformation_Button",
+            "value": "ОК"
+        },
+        {
+            "key": "Work_ClothPartsDisappearInformation_Text",
+            "value": "[!] Есть материалы, которые сейчас «временно скрыты»... Что делать?"
+        },
+        {
+            "key": "Work_ClothPartsDisappearInformation_Button1",
+            "value": "Завершить, убрав скрытые материалы"
+        },
+        {
+            "key": "Work_ClothPartsDisappearInformation_Button2",
+            "value": "Завершить, применив все материалы"
+        },
+        {
+            "key": "Work_ClothPartsDisappearInformation_Button3",
+            "value": "Назад"
+        },
+        {
+            "key": "Work_WorkFinishedInformation_Text",
+            "value": "☆Добавлено в телефон!"
+        },
+        {
+            "key": "Work_WorkFinishedInformation_Button",
+            "value": "ОК"
+        },
+        {
+            "key": "Coodinate_CoodinateItemDeactiveMessage_Text",
+            "value": "Нельзя надеть♡"
+        },
+        {
+            "key": "Coodinate_CoodinateItemDeactiveMessage_Text_Nin",
+            "value": "Нельзя носить во время беременности♡"
+        },
+        {
+            "key": "Coodinate_CoodinateItemDeactiveMessage_Text_San",
+            "value": "Можно носить только во время беременности♡"
+        },
+        {
+            "key": "Coodinate_DeleteItemPermission_Text",
+            "value": "Точно выбросить этот предмет?"
+        },
+        {
+            "key": "Coodinate_DeleteItemPermission_Button1",
+            "value": "Нет"
+        },
+        {
+            "key": "Coodinate_DeleteItemPermission_Button2",
+            "value": "Да"
+        },
+        {
+            "key": "Coodinate_BackCoodinatePermission_Text",
+            "value": "Вернуться?\n\n(*Текущее переодевание не сохранится)"
+        },
+        {
+            "key": "Coodinate_BackCoodinatePermission_Button1",
+            "value": "Нет"
+        },
+        {
+            "key": "Coodinate_BackCoodinatePermission_Button2",
+            "value": "Да"
+        },
+        {
+            "key": "Shop_Name_ToyDangerous",
+            "value": "Город грехов"
+        },
+        {
+            "key": "Shop_ToyDangerous_Jenre1",
+            "value": "Материалы"
+        },
+        {
+            "key": "Shop_ToyDangerous_Jenre2",
+            "value": "Товары"
+        },
+        {
+            "key": "Shop_ToyDangerous_Jenre3",
+            "value": "Аксессуары"
+        },
+        {
+            "key": "Shop_Name_ZUTAYA",
+            "value": "ЗУТАЯ"
+        },
+        {
+            "key": "Shop_ZUTAYA_Jenre",
+            "value": "Книги"
+        },
+        {
+            "key": "Shop_Name_Erozon",
+            "value": "Эрозон"
+        },
+        {
+            "key": "Shop_Erozon_Jenre1",
+            "value": "Трусики"
+        },
+        {
+            "key": "Shop_Erozon_Jenre2",
+            "value": "Лифчик"
+        },
+        {
+            "key": "Shop_Erozon_Jenre3",
+            "value": "Косплей"
+        },
+        {
+            "key": "Shop_Erozon_Jenre4",
+            "value": "Наряды"
+        },
+        {
+            "key": "Shop_Erozon_Jenre5",
+            "value": "Прочее"
+        },
+        {
+            "key": "Shop_AccountButton",
+            "value": "Оплатить"
+        },
+        {
+            "key": "Shop_ExitButton",
+            "value": "Выйти"
+        },
+        {
+            "key": "Shop_AccountButton_Erozon",
+            "value": "Заказать"
+        },
+        {
+            "key": "Shop_ExitButton_Erozon",
+            "value": "Закрыть"
+        },
+        {
+            "key": "Shop_NewLineupMessage_Text",
+            "value": "Поступили новые товары!"
+        },
+        {
+            "key": "Shop_NewLineupMessage_Button1",
+            "value": "ОК"
+        },
+        {
+            "key": "Shop_PaymentAlert_NonItem_Text",
+            "value": "Сначала надо выбрать предмет..."
+        },
+        {
+            "key": "Shop_PaymentAlert_NonItem_Button1",
+            "value": "Назад"
+        },
+        {
+            "key": "Shop_PaymentAlert_ShortOfMoney_Text",
+            "value": "Не хватает денег...!"
+        },
+        {
+            "key": "Shop_PaymentAlert_ShortOfMoney_Button1",
+            "value": "Назад"
+        },
+        {
+            "key": "Shop_PaymentAlert_Permission_Button1",
+            "value": "Нет"
+        },
+        {
+            "key": "Shop_PaymentAlert_Permission_Button2",
+            "value": "Да"
+        },
+        {
+            "key": "Shop_PaymentAlert_ThankYou_Title",
+            "value": "Оплата"
+        },
+        {
+            "key": "Shop_PaymentAlert_ThankYou_Button1",
+            "value": "ОК"
+        },
+        {
+            "key": "Shop_PaymentAlert_ThankYou_Text",
+            "value": "Спасибо за покупку."
+        },
+        {
+            "key": "Shop_PaymentAlert_ThankYou_Text_Erozon",
+            "value": "Спасибо за покупку. \nЗаказ придёт завтра."
+        },
+        {
+            "key": "Shop_ShopExitAlert_Permission_Text",
+            "value": "Покинуть магазин?"
+        },
+        {
+            "key": "Shop_ShopExitAlert_Permission_Text_Erozon",
+            "value": "Хватит покупок?"
+        },
+        {
+            "key": "Shop_ShopExitAlert_Permission_Button1",
+            "value": "Нет"
+        },
+        {
+            "key": "Shop_ShopExitAlert_Permission_Button2",
+            "value": "Да"
+        },
+        {
+            "key": "Shop_GameGuideAlert_book_Text",
+            "value": "Книги используются через «Предметы».\n\n\nПосле использования их можно купить снова."
+        },
+        {
+            "key": "Shop_GameGuideAlert_book_Button1",
+            "value": "ОК"
+        },
+        {
+            "key": "Market_NonItem_LabelText",
+            "value": "Пусто"
+        },
+        {
+            "key": "Market_JenreName_Tops",
+            "value": "Верх"
+        },
+        {
+            "key": "Market_JenreName_Botoms",
+            "value": "Низ"
+        },
+        {
+            "key": "Market_JenreName_Socks",
+            "value": "Носки"
+        },
+        {
+            "key": "Market_JenreName_Maternity",
+            "value": "Беременным"
+        },
+        {
+            "key": "Market_NonSelectAlertMessage_Text",
+            "value": "Сначала надо выбрать одежду..."
+        },
+        {
+            "key": "Market_SalePermissionMessage_Text",
+            "value": "Продать выбранную одежду?"
+        },
+        {
+            "key": "Market_SalePermissionMessage_Button1",
+            "value": "Отмена"
+        },
+        {
+            "key": "Market_SalePermissionMessage_Button2",
+            "value": "Продать"
+        },
+        {
+            "key": "Market_PresentPermissionMessage_Text",
+            "value": "Подарить выбранную одежду Марине...?"
+        },
+        {
+            "key": "Market_PresentPermissionMessage_Button1",
+            "value": "Отмена"
+        },
+        {
+            "key": "Market_PresentPermissionMessage_Button2",
+            "value": "Дар"
+        },
+        {
+            "key": "Market_DeletePermissionMessage_Button2",
+            "value": "Удалить"
+        },
+        {
+            "key": "KeitaiUri_yokujitu_ScenarioText1",
+            "value": "Ох, что-то пришло на мой телефон..."
+        },
+        {
+            "key": "KeitaiUri_yokujitu_ScenarioText2",
+            "value": "Поздравляем!"
+        },
+        {
+            "key": "Status_Profile_Secret_ThreeSize",
+            "value": "???♡　???♡　???♡"
+        },
+        {
+            "key": "Status_Profile_Secret_Blood",
+            "value": "? тип♡"
+        },
+        {
+            "key": "Status_Profile_Secret_Zenkaku2",
+            "value": "?????"
+        },
+        {
+            "key": "Status_Profile_ThreeSize1",
+            "value": "B94♡　W55♡　H90♡"
+        },
+        {
+            "key": "Status_Profile_ThreeSize2",
+            "value": "B95♡　W55♡　H91♡"
+        },
+        {
+            "key": "Status_Profile_ThreeSize3",
+            "value": "B96♡　W55♡　H92♡"
+        },
+        {
+            "key": "Status_Profile_BirthDay",
+            "value": "31 августа♡"
+        },
+        {
+            "key": "Status_Profile_Blood",
+            "value": "O(I)♡"
+        },
+        {
+            "key": "Status_Profile_Hobby1",
+            "value": "Чтение♡"
+        },
+        {
+            "key": "Status_Profile_Hobby2",
+            "value": "Онии-сан♡"
+        },
+        {
+            "key": "Status_Profile_LikeFood1",
+            "value": "Всё♡"
+        },
+        {
+            "key": "Status_Profile_LikeFood2",
+            "value": "Острое♡"
+        },
+        {
+            "key": "Status_Profile_LikeFood3",
+            "value": "Член♡"
+        },
+        {
+            "key": "Status_Profile_Talent1",
+            "value": "Готовка♡"
+        },
+        {
+            "key": "Status_Profile_Talent2",
+            "value": "СЕКС♡"
+        },
+        {
+            "key": "Status_Profile_Love",
+            "value": "Ты♡"
+        },
+        {
+            "key": "Status_Profile_CurrentStatusTitle1",
+            "value": "Фаза соблазнения"
+        },
+        {
+            "key": "Status_Profile_CurrentStatusTitle2",
+            "value": "Неловкость"
+        },
+        {
+            "key": "Status_Profile_CurrentStatusTitle3",
+            "value": "Фаза привыкания"
+        },
+        {
+            "key": "Status_Profile_CurrentStatusTitle4",
+            "value": "Фаза невинности"
+        },
+        {
+            "key": "Status_Profile_CurrentStatusTitle5",
+            "value": "Фаза симпатии"
+        },
+        {
+            "key": "Status_Profile_CurrentStatusTitle6",
+            "value": "Фаза влюблённости"
+        },
+        {
+            "key": "Status_Profile_CurrentStatusTitle7",
+            "value": "Фаза течки"
+        },
+        {
+            "key": "Status_Profile_CurrentStatusTitle8",
+            "value": "Ранний срок"
+        },
+        {
+            "key": "Status_Profile_CurrentStatusTitle9",
+            "value": "Середина срока"
+        },
+        {
+            "key": "Status_Profile_CurrentStatusTitle10",
+            "value": "Поздний срок"
+        },
+        {
+            "key": "Status_Profile_CurrentStatusTitle11",
+            "value": "Фаза влюблённости\n(после родов)"
+        },
+        {
+            "key": "Status_Profile_KoukandoSerif1",
+            "value": "Очень приятно~~♡"
+        },
+        {
+            "key": "Status_Profile_KoukandoTitle2",
+            "value": "Банк"
+        },
+        {
+            "key": "Status_Profile_KoukandoSerif2",
+            "value": "Приятно познакомиться~~♡♡♡"
+        },
+        {
+            "key": "Status_Profile_KoukandoTitle3",
+            "value": "Неловкий"
+        },
+        {
+            "key": "Status_Profile_KoukandoSerif3",
+            "value": "Не хочу говорить..."
+        },
+        {
+            "key": "Status_Profile_KoukandoTitle4",
+            "value": "Тот, кто интересен"
+        },
+        {
+            "key": "Status_Profile_KoukandoSerif4",
+            "value": "Странный человек... \nЧто это за чувство..."
+        },
+        {
+            "key": "Status_Profile_KoukandoTitle5",
+            "value": "Нравится♡"
+        },
+        {
+            "key": "Status_Profile_KoukandoSerif5",
+            "value": "Это первая любовь Марины...♡"
+        },
+        {
+            "key": "Status_Profile_KoukandoTitle6",
+            "value": "Любимый человек♡♡"
+        },
+        {
+            "key": "Status_Profile_KoukandoSerif6",
+            "value": "Я так тебя люблю...♡ \nХочу, чтобы ты любил меня ещё сильнее...♡"
+        },
+        {
+            "key": "Status_Profile_KoukandoTitle7",
+            "value": "Обожаемый♡♡♡"
+        },
+        {
+            "key": "Status_Profile_KoukandoSerif7",
+            "value": "Мои чувства к тебе переполняют меня, \nэто так больно...♡"
+        },
+        {
+            "key": "Status_Profile_KoukandoTitle8",
+            "value": "Любимый до смерти♡♡♡♡♡"
+        },
+        {
+            "key": "Status_Profile_KoukandoSerif8",
+            "value": "Не могу представить \nжизнь без тебя...♡"
+        },
+        {
+            "key": "Status_Profile_InranTitle1",
+            "value": "Пробужд. страсти♡"
+        },
+        {
+            "key": "Status_Profile_InranSerif1",
+            "value": "Мне... \nтак волнительно...♡"
+        },
+        {
+            "key": "Status_Profile_InranTitle2",
+            "value": "Радость страсти♡"
+        },
+        {
+            "key": "Status_Profile_InranSerif2",
+            "value": "Это... \nтак приятно...♡"
+        },
+        {
+            "key": "Status_Profile_InranTitle3",
+            "value": "Рабыня страсти♡"
+        },
+        {
+            "key": "Status_Profile_InranSerif3",
+            "value": "Ах... \nслишком приятно...♡"
+        },
+        {
+            "key": "Status_Profile_InranTitle4",
+            "value": "В плену страсти♡"
+        },
+        {
+            "key": "Status_Profile_InranSerif4",
+            "value": "Так приятно, \nчто я схожу с ума...♡"
+        },
+        {
+            "key": "Status_Profile_InranTitle5",
+            "value": "В течке♡"
+        },
+        {
+            "key": "Status_Profile_InranSerif5",
+            "value": "Хочу СЕКСА, прямо невыносимо...♡"
+        },
+        {
+            "key": "Status_Profile_JobName1",
+            "value": "Новичок"
+        },
+        {
+            "key": "Status_Profile_JobName2",
+            "value": "Звезда☆портной"
+        },
+        {
+            "key": "Status_Profile_JobName3",
+            "value": "Умелый портной"
+        },
+        {
+            "key": "Status_Profile_JobName4",
+            "value": "Профи-портной"
+        },
+        {
+            "key": "Status_Profile_JobName5",
+            "value": "Легенда-портной"
+        },
+        {
+            "key": "Status_Profile_HentaiTitle1",
+            "value": "Извращенец♡"
+        },
+        {
+            "key": "Status_Profile_HentaiTitle2",
+            "value": "Искатель порока♡"
+        },
+        {
+            "key": "Status_Profile_HentaiTitle3",
+            "value": "Мастер изврата♡"
+        },
+        {
+            "key": "Status_Profile_HentaiTitle4",
+            "value": "Хентай-мэн Рэйва♡"
+        },
+        {
+            "key": "Status_Profile_HentaiTitle5",
+            "value": "Король изврата♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_Secret",
+            "value": "?????"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_MaterialCompleteMaster",
+            "value": "Мастер коллекционирования тканей♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_CosPlayMania",
+            "value": "Маньяк косплея♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_LingerieCollectionKing",
+            "value": "Король коллекции белья"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_AdultGoodsCollector",
+            "value": "Коллекционер эротических товаров♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_FashionableMeister",
+            "value": "Мастер моды♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_KingOfTheMountain",
+            "value": "Царь горы♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_CafeRegular",
+            "value": "Свой в кафе♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_LegendWorker",
+            "value": "Профи-подработчик"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_Mutsugoro",
+            "value": "Мастер ласк♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_KissTechnician",
+            "value": "Мастер поцелуя♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_CharismaEroDoctor",
+            "value": "Харизматичный эро-доктор♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_EternalLove",
+            "value": "Вечная любовь♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_ErosIncarnate",
+            "value": "Воплощение похоти♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_SexSpecialist",
+            "value": "Секс-эксперт♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_EjaculationEmperor",
+            "value": "Император млечного мира♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophyTitle_AnalTrainer",
+            "value": "Анал-тренер♡"
+        },
+        {
+            "key": "Status_Profile_GameTrophy_ProgressInfo_Complete",
+            "value": "Готово"
+        },
+        {
+            "key": "SexSceneMenu_KaikanGauge_Title",
+            "value": "Наслажд."
+        },
+        {
+            "key": "SexSceneMenu_OkuchiKandoGauge_Title",
+            "value": "Ротик"
+        },
+        {
+            "key": "SexSceneMenu_MuneKandoGauge_Title",
+            "value": "Грудь"
+        },
+        {
+            "key": "SexSceneMenu_CliKandoGauge_Title",
+            "value": "Клитор"
+        },
+        {
+            "key": "SexSceneMenu_ChitsuKandoGauge_Title",
+            "value": "Вагина"
+        },
+        {
+            "key": "SexSceneMenu_OsiriKandoGauge_Title",
+            "value": "Попка"
+        },
+        {
+            "key": "SexSceneMenu_InformationText_Default",
+            "value": "Что будешь делать?"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_Talk",
+            "value": "Болтать"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_Undress",
+            "value": "Одежда"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_Undress_Bonyu",
+            "value": "Молоко"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_Posture",
+            "value": "Сменить позу"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Posture_Seijyoui",
+            "value": "Миссионер"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Posture_Paizuri",
+            "value": "Грудь"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Posture_Kijyoui",
+            "value": "Сверху"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Posture_Fera",
+            "value": "Минет"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Posture_Back",
+            "value": "Сзади"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Posture_Manguri",
+            "value": "Поза M"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_Lighting",
+            "value": "Освещение"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_BL1",
+            "value": "Чёрный свет"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_BL2",
+            "value": "Чёрный"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_LB1",
+            "value": "Синий свет"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_LB2",
+            "value": "Синий"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_PI1",
+            "value": "Розовый свет"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_PI2",
+            "value": "Розовый"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_YE1",
+            "value": "Жёлтый свет"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_YE2",
+            "value": "Жёлтый"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_AdultGoods",
+            "value": "Игрушка"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_AdultGoods_EyeMask",
+            "value": "Повязка"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_AdultGoods_DevilTail",
+            "value": "Хвостик чертёнка"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_AdultGoods_BodyPen",
+            "value": "Маркер"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_AdultGoods_AnimalTail",
+            "value": "Хвост"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_CutIn",
+            "value": "Крупно"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_Option",
+            "value": "Настройки"
+        },
+        {
+            "key": "SexSceneMenu_InfoName_Exit",
+            "value": "Конец"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Ka_Hat",
+            "value": "Шляпа"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Ka_Tops",
+            "value": "Верх"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Ka_Bra",
+            "value": "Лифчик"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Ka_Skirt",
+            "value": "Юбка"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Ka_Panty",
+            "value": "Трусики"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Ka_Bag",
+            "value": "Сумка"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Ka_BabyCar",
+            "value": "Коляска"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Lo_EyeMask",
+            "value": "Повязка"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Lo_Rakugaki",
+            "value": "Надпись"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Lo_Tops",
+            "value": "Бондаж"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Lo_EpronDark",
+            "value": "Фартук"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Lo_Rope",
+            "value": "Верёвка"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Lo_Globe",
+            "value": "Перчатки"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Lo_Tights",
+            "value": "Чулки"
+        },
+        {
+            "key": "SexSceneMenu_ButtonName_Undress_Lo_Hair",
+            "value": "Волосы"
+        },
+        {
+            "key": "Sex_Ejaculation_In",
+            "value": "Внутрь"
+        },
+        {
+            "key": "Sex_Ejaculation_Out",
+            "value": "Наружу"
+        },
+        {
+            "key": "Sex_Ejaculation_Cancel",
+            "value": "Сдержаться"
+        },
+        {
+            "key": "Sex_LovePotionUsePermission_Button2",
+            "value": "Исп."
+        },
+        {
+            "key": "Sex_ExitSexScenePermission_Text",
+            "value": "На этом пока закончим?"
+        },
+        {
+            "key": "Sex_ExitSexScenePermission_Text_Night",
+            "value": "На сегодня закончим?"
+        },
+        {
+            "key": "Sex_ExitSexScenePermission_Button1",
+            "value": "Дальше"
+        },
+        {
+            "key": "Sex_ExitSexScenePermission_Button2",
+            "value": "Конец"
+        },
+        {
+            "key": "LifeLog_OkuchiLevel",
+            "value": "＜Уровень чувствительности рта повышен!＞"
+        },
+        {
+            "key": "LifeLog_MuneLevel",
+            "value": "＜Уровень чувствительности груди повышен!＞"
+        },
+        {
+            "key": "LifeLog_CliLevel",
+            "value": "＜Уровень чувствительности клитора повышен!＞"
+        },
+        {
+            "key": "LifeLog_ChitsuLevel",
+            "value": "＜Уровень чувствительности киски повышен!＞"
+        },
+        {
+            "key": "LifeLog_OsiriLevel",
+            "value": "＜Уровень чувствительности попки повышен!＞"
+        },
+        {
+            "key": "LifeLog_Syoya",
+            "value": "Провёл первую ночь с Мариной"
+        },
+        {
+            "key": "LifeLog_501_SetSyatuOpen",
+            "value": "Открыт наряд: «Рубашка бойфренда»"
+        },
+        {
+            "key": "LifeLog_Kekkon1",
+            "value": "Брак с Мариной"
+        },
+        {
+            "key": "LifeLog_Kekkon2",
+            "value": "Теперь можно поставить обручальное кольцо в комнате"
+        },
+        {
+            "key": "LifeLog_Ninshin",
+            "value": "Марина беременна"
+        },
+        {
+            "key": "LifeLog_ScenarioPeriodShift_Nin2",
+            "value": "Теперь можно шить одежду для беременных"
+        },
+        {
+            "key": "LifeLog_Syussan1",
+            "value": "Родилась дочка"
+        },
+        {
+            "key": "LifeLog_Syussan2",
+            "value": "| Прошло 7 дней с тех пор, как Марина родила"
+        },
+        {
+            "key": "LifeLog_Branch_Soto_Futari",
+            "value": "Теперь можно гулять с Мариной по выходным"
+        },
+        {
+            "key": "LifeLog_Branch_Soto_Park",
+            "value": "Теперь можно пойти в «Парк Орешек»"
+        },
+        {
+            "key": "LifeLog_Branch_Soto_Yuuenti",
+            "value": "Теперь можно пойти в «Парк Экстаза»"
+        },
+        {
+            "key": "LifeLog_Branch_Soto_Onsen",
+            "value": "Теперь можно пойти в «Источники Додзэн»"
+        },
+        {
+            "key": "LifeLog_Branch_Soto_Rabuho",
+            "value": "Теперь можно пойти в «Отель любви・SPICE»"
+        },
+        {
+            "key": "LifeLog_Command_Marina_HAsobiLv2",
+            "value": "♥«Эроигра» усилена [Ур.2]"
+        },
+        {
+            "key": "LifeLog_Command_Marina_HAsobiLv3",
+            "value": "♥«Эроигра» усилена [Ур.3]"
+        },
+        {
+            "key": "LifeLog_Command_Marina_HAsobiLv4",
+            "value": "♥«Эроигра» усилена [Ур.MAX]"
+        },
+        {
+            "key": "LifeLog_Command_Marina_HAsobiLv4_Syo",
+            "value": "\n ♥В «Эроигре» теперь доступен «Осмотр груди»"
+        },
+        {
+            "key": "LifeLog_Command_Marina_HAsobiLv4_Isya",
+            "value": "\n ♥В «Эроигре» теперь доступен «Осмотр киски»"
+        },
+        {
+            "key": "LifeLog_WorkQualityLevel_Lv2",
+            "value": "Уровень мастерства повышен! [Ур.2]"
+        },
+        {
+            "key": "LifeLog_WorkQualityLevel_Lv3",
+            "value": "Уровень мастерства повышен! [Ур.3]"
+        },
+        {
+            "key": "LifeLog_WorkQualityLevel_Lv4",
+            "value": "Уровень мастерства повышен! [Ур.4]"
+        },
+        {
+            "key": "LifeLog_WorkQualityLevel_Lv5",
+            "value": "Уровень мастерства повышен! [Ур.5]"
+        },
+        {
+            "key": "LifeLog_Status_Profile_Job",
+            "value": "Профиль обновлён [профессия]"
+        },
+        {
+            "key": "LifeLog_Command_Coodinate",
+            "value": "Открыта «Смена одежды»"
+        },
+        {
+            "key": "LifeLog_Command_SmartPhone_Erozon",
+            "value": "Открыта функция телефона «Эрозон»"
+        },
+        {
+            "key": "LifeLog_Command_Marina_Kiss",
+            "value": "В меню Марины открыт пункт «Поцеловать»"
+        },
+        {
+            "key": "LifeLog_Command_Marina_Hug",
+            "value": "В меню Марины открыт пункт «Обнять»"
+        },
+        {
+            "key": "LifeLog_Command_Marina_LapPilow",
+            "value": "В меню Марины открыт пункт «Полежать на коленях»"
+        },
+        {
+            "key": "LifeLog_Command_Marina_Sex",
+            "value": "В меню Марины открыт пункт «Секс»"
+        },
+        {
+            "key": "LifeLog_StatusOpen_Status_Profile_Height",
+            "value": "Профиль Марины обновлён [рост]"
+        },
+        {
+            "key": "LifeLog_StatusOpen_Status_Profile_Weight",
+            "value": "Профиль Марины обновлён [вес]"
+        },
+        {
+            "key": "LifeLog_StatusOpen_Status_Profile_ThreeSize",
+            "value": "Профиль Марины обновлён [параметры]"
+        },
+        {
+            "key": "LifeLog_StatusOpen_Status_Profile_BirthDay",
+            "value": "Профиль Марины обновлён [день рождения]"
+        },
+        {
+            "key": "LifeLog_StatusOpen_Status_Profile_Blood",
+            "value": "Профиль Марины обновлён [группа крови]"
+        },
+        {
+            "key": "LifeLog_StatusOpen_Status_Profile_Hobby",
+            "value": "Профиль Марины обновлён [увлечения]"
+        },
+        {
+            "key": "LifeLog_StatusOpen_Status_Profile_LikeFood",
+            "value": "Профиль Марины обновлён [любимая еда]"
+        },
+        {
+            "key": "LifeLog_StatusOpen_Status_Profile_Talent",
+            "value": "Профиль Марины обновлён [особые умения]"
+        },
+        {
+            "key": "LifeLog_StatusOpen_Status_Profile_Love",
+            "value": "Профиль Марины обновлён [кто ей нравится]"
+        },
+        {
+            "key": "LifeLog_StatusOpen_Status_Profile_HentaiTitle",
+            "value": "Профиль обновлён [уровень извращённости]"
+        },
+        {
+            "key": "LifeLog_StatusOpen_Status_Marina_Koukando",
+            "value": "Профиль Марины обновлён [уровень привязанности]"
+        },
+        {
+            "key": "LifeLog_StatusOpen_Marina_Inran",
+            "value": "Профиль Марины обновлён [уровень похоти]"
+        },
+        {
+            "key": "SexMouseCommand_te01",
+            "value": "Гладить"
+        },
+        {
+            "key": "SexMouseCommand_te02",
+            "value": "Спинка"
+        },
+        {
+            "key": "SexMouseCommand_te03",
+            "value": "Ножка"
+        },
+        {
+            "key": "SexMouseCommand_te04",
+            "value": "Щёчка"
+        },
+        {
+            "key": "SexMouseCommand_te05",
+            "value": "Трепать"
+        },
+        {
+            "key": "SexMouseCommand_te06",
+            "value": "Ласкать попку"
+        },
+        {
+            "key": "SexMouseCommand_te07",
+            "value": "Клитор"
+        },
+        {
+            "key": "SexMouseCommand_te08",
+            "value": "Тронуть"
+        },
+        {
+            "key": "SexMouseCommand_te09",
+            "value": "Грудь"
+        },
+        {
+            "key": "SexMouseCommand_te10",
+            "value": "Плечи"
+        },
+        {
+            "key": "SexMouseCommand_te11",
+            "value": "Живот"
+        },
+        {
+            "key": "SexMouseCommand_te52",
+            "value": "Дрочка"
+        },
+        {
+            "key": "SexMouseCommand_pa51",
+            "value": "Межгрудье"
+        },
+        {
+            "key": "SexMouseCommand_pa52",
+            "value": "Ласки груди + введение (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_pa53",
+            "value": "Межгрудье попеременно (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ku01",
+            "value": "Поцелуй"
+        },
+        {
+            "key": "SexMouseCommand_ku03",
+            "value": "Сосать клитор"
+        },
+        {
+            "key": "SexMouseCommand_ku04",
+            "value": "Жаркий поцелуй"
+        },
+        {
+            "key": "SexMouseCommand_ku53",
+            "value": "Клитор (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ku54",
+            "value": "Сосать головку"
+        },
+        {
+            "key": "SexMouseCommand_ku55",
+            "value": "У корня (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_bi01",
+            "value": "Сменить позу"
+        },
+        {
+            "key": "SexMouseCommand_bi02",
+            "value": "Надпись"
+        },
+        {
+            "key": "SexMouseCommand_bi03",
+            "value": "Нюхать"
+        },
+        {
+            "key": "SexMouseCommand_bi04",
+            "value": "Сменить фон"
+        },
+        {
+            "key": "SexMouseCommand_bi05",
+            "value": "Цепочку"
+        },
+        {
+            "key": "SexMouseCommand_bi06",
+            "value": "Повернуть лицо"
+        },
+        {
+            "key": "SexMouseCommand_bi07",
+            "value": "Взять за талию"
+        },
+        {
+            "key": "SexMouseCommand_bi08",
+            "value": "Сменить руку"
+        },
+        {
+            "key": "SexMouseCommand_bi09",
+            "value": "Взять за ногу"
+        },
+        {
+            "key": "SexMouseCommand_bi10",
+            "value": "Взять за попку"
+        },
+        {
+            "key": "SexMouseCommand_lo01",
+            "value": "Вставить вибро-яйцо"
+        },
+        {
+            "key": "SexMouseCommand_lo02",
+            "value": "Убрать яйцо-вибратор"
+        },
+        {
+            "key": "SexMouseCommand_lo51",
+            "value": "Вибро-яйцо (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_lo52",
+            "value": "Введение + яйцо-вибратор (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_lo53",
+            "value": "Минет + яйцо-вибратор (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_lo54",
+            "value": "Глубокие толчки + яйцо-вибратор (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_lo55",
+            "value": "Сосать головку + яйцо-вибратор (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_lo56",
+            "value": "Тереться у основания + яйцо-вибратор (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_lo57",
+            "value": "Межгрудье + яйцо-вибратор (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ba51",
+            "value": "Вибратор на клиторе (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ba53",
+            "value": "Вибратор на клиторе (ожидание)"
+        },
+        {
+            "key": "SexMouseCommand_ma02",
+            "value": "Ввести"
+        },
+        {
+            "key": "SexMouseCommand_ma51",
+            "value": "Введение (от Марины) (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ma52",
+            "value": "Бёдра (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ti01",
+            "value": "Во влагалище"
+        },
+        {
+            "key": "SexMouseCommand_ti02",
+            "value": "В попку"
+        },
+        {
+            "key": "SexMouseCommand_ti03",
+            "value": "Между грудей"
+        },
+        {
+            "key": "SexMouseCommand_ti51",
+            "value": "Влагалище (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ti52",
+            "value": "В попку (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ti53",
+            "value": "Межгрудье (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_de51",
+            "value": "Вибратор"
+        },
+        {
+            "key": "SexMouseCommand_de52",
+            "value": "Вибратор (клитор + введение, цикл)"
+        },
+        {
+            "key": "SexMouseCommand_de53",
+            "value": "Вибратор (правая грудь + введение, цикл)"
+        },
+        {
+            "key": "SexMouseCommand_de54",
+            "value": "Вибратор (левая грудь + введение, цикл)"
+        },
+        {
+            "key": "SexMouseCommand_si01",
+            "value": "Лизать попку"
+        },
+        {
+            "key": "SexMouseCommand_si02",
+            "value": "Лизать лоно"
+        },
+        {
+            "key": "SexMouseCommand_si03",
+            "value": "Лизать клитор"
+        },
+        {
+            "key": "SexMouseCommand_si04",
+            "value": "Лизать"
+        },
+        {
+            "key": "SexMouseCommand_si05",
+            "value": "Лизать сосок"
+        },
+        {
+            "key": "SexMouseCommand_si51",
+            "value": "Попка (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_si52",
+            "value": "Лизать лоно (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_si53",
+            "value": "Клитор (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_si54",
+            "value": "Лизать ладонь (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_si55",
+            "value": "Лизать (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_si57",
+            "value": "Лизать сосок (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_si56",
+            "value": "Межгрудье + облизывание (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_gu01",
+            "value": "Тереть грудь"
+        },
+        {
+            "key": "SexMouseCommand_gu02",
+            "value": "Тереть попку"
+        },
+        {
+            "key": "SexMouseCommand_gu51",
+            "value": "Тереть грудь (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_gu53",
+            "value": "Попка (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ni01",
+            "value": "Введение двух пальцев"
+        },
+        {
+            "key": "SexMouseCommand_ni02",
+            "value": "Играть с соском"
+        },
+        {
+            "key": "SexMouseCommand_ni03",
+            "value": "Ласки лона"
+        },
+        {
+            "key": "SexMouseCommand_ni04",
+            "value": "Промежность + раздвинуть ноги"
+        },
+        {
+            "key": "SexMouseCommand_ni51",
+            "value": "Введение двух пальцев (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ni52",
+            "value": "Межгрудье + игра с соском (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ni53",
+            "value": "Ласки лона (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ni54",
+            "value": "Промежность + раздвинуть ноги (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ni55",
+            "value": "Ласки соска (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_tu01",
+            "value": "Щипать сосок"
+        },
+        {
+            "key": "SexMouseCommand_tu02",
+            "value": "Тянуть сосок"
+        },
+        {
+            "key": "SexMouseCommand_tu03",
+            "value": "Шире"
+        },
+        {
+            "key": "SexMouseCommand_tu04",
+            "value": "Тереть/щипать клитор (поза M)"
+        },
+        {
+            "key": "SexMouseCommand_tu51",
+            "value": "Щипать сосок (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_tu54",
+            "value": "Клитор (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_tu53",
+            "value": "Межгрудье + щипать сосок (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_yu01",
+            "value": "Ввод пальца"
+        },
+        {
+            "key": "SexMouseCommand_yu02",
+            "value": "Тереть сосок"
+        },
+        {
+            "key": "SexMouseCommand_yu03",
+            "value": "Дразнить"
+        },
+        {
+            "key": "SexMouseCommand_yu04",
+            "value": "Царапать сосок"
+        },
+        {
+            "key": "SexMouseCommand_yu05",
+            "value": "Тереть клитор (поза M)"
+        },
+        {
+            "key": "SexMouseCommand_yu51",
+            "value": "Введение одного пальца (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_yu52",
+            "value": "Тереть сосок (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_yu53",
+            "value": "Клитор (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_yu54",
+            "value": "Царапать сосок (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_yu55",
+            "value": "Клитор (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ko02",
+            "value": "Бусы"
+        },
+        {
+            "key": "SexMouseCommand_ko51",
+            "value": "Вибро с шипами (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_ko53",
+            "value": "Бусы (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_fe51",
+            "value": "Минет (цикл)"
+        },
+        {
+            "key": "SexMouseCommand_fe52",
+            "value": "Глубоко (цикл)"
+        },
+        {
+            "key": "Tutorial_Text_Work1_1",
+            "value": "— Шитьё одежды —"
+        },
+        {
+            "key": "Tutorial_Text_Work1_2",
+            "value": "Будем шить и продавать одежду, чтобы свести концы с концами!"
+        },
+        {
+            "key": "Tutorial_Text_Work1_3",
+            "value": "Чтобы шить одежду, выберите \"Работа\" среди значков действий. Давайте сразу и попробуем!"
+        },
+        {
+            "key": "Tutorial_Text_Work2_1",
+            "value": "Как шить одежду&lt;size=120%&gt;①"
+        },
+        {
+            "key": "Tutorial_Text_Work2_2",
+            "value": "Сначала выберем тип одежды! Доступные варианты делятся на следующие категории"
+        },
+        {
+            "key": "Tutorial_Text_Work2_3",
+            "value": "Используйте левое меню для переключения категорий одежды. Верх — для верхней части тела, низ — для нижней, носки — для ног"
+        },
+        {
+            "key": "Tutorial_Text_Work2_4",
+            "value": "Как шить одежду&lt;size=120%&gt;②"
+        },
+        {
+            "key": "Tutorial_Text_Work2_5",
+            "value": "Дальше выберите \"узор\" одежды. Давайте сошьём футболку"
+        },
+        {
+            "key": "Tutorial_Text_Work2_6",
+            "value": "Как шить одежду&lt;size=120%&gt;③"
+        },
+        {
+            "key": "Tutorial_Text_Work2_7",
+            "value": "Выбрав выкройку для пошива, переходите к следующему шагу!"
+        },
+        {
+            "key": "Tutorial_Text_Work3_1",
+            "value": "Как шить одежду&lt;size=120%&gt;④"
+        },
+        {
+            "key": "Tutorial_Text_Work3_2",
+            "value": "На этом экране вы можете настроить одежду по своему вкусу"
+        },
+        {
+            "key": "Tutorial_Text_Work3_3",
+            "value": "Как шить одежду&lt;size=120%&gt;⑤"
+        },
+        {
+            "key": "Tutorial_Text_Work3_4",
+            "value": "Давайте попробуем изменить ткань футболки на розовую! Выберите розовый \"Материал одежды\" в окне слева"
+        },
+        {
+            "key": "Tutorial_Text_Work3_5",
+            "value": "Ткань футболки стала розовой!"
+        },
+        {
+            "key": "Tutorial_Text_Work3_6",
+            "value": "Как шить одежду&lt;size=120%&gt;⑥"
+        },
+        {
+            "key": "Tutorial_Text_Work3_7",
+            "value": "Чтобы использовать 'Материалы Одежды', нужны соответствующие 'Материалы'. Виды 'Материалов' бывают такими"
+        },
+        {
+            "key": "Tutorial_Text_Work3_8",
+            "value": "Как шить одежду&lt;size=120%&gt;⑦"
+        },
+        {
+            "key": "Tutorial_Text_Work3_9",
+            "value": "Остаток \"Материалов\" для одежды виден на панели слева внизу"
+        },
+        {
+            "key": "Tutorial_Text_Work3_10",
+            "value": "Как шить одежду&lt;size=120%&gt;⑧"
+        },
+        {
+            "key": "Tutorial_Text_Work3_11",
+            "value": "На панели справа вверху можно посмотреть или убрать \"Материалы Одежды\", отсортированные по типу 'Материалов'"
+        },
+        {
+            "key": "Tutorial_Text_Work3_12",
+            "value": "Как шить одежду&lt;size=120%&gt;⑨"
+        },
+        {
+            "key": "Tutorial_Text_Work3_13",
+            "value": "Свободно выбирайте ткани и украшения для создания своей прекрасной одежды! Нажмите \"Завершить\" справа внизу, чтобы закончить"
+        },
+        {
+            "key": "Tutorial_Text_Work3_14",
+            "value": "Чем больше вы работаете, тем больше становится доступных \"Выкроек\". Давайте постараемся ради совместной жизни с Мариной!"
+        },
+        {
+            "key": "Tutorial_Text_Market1_1",
+            "value": "— Продажа одежды —"
+        },
+        {
+            "key": "Tutorial_Text_Market1_2",
+            "value": "Продадим сшитую одежду и заработаем!"
+        },
+        {
+            "key": "Tutorial_Text_Market1_3",
+            "value": "Чтобы продать одежду, выберите \"Телефон\" среди значков действий. Давайте сразу и попробуем!"
+        },
+        {
+            "key": "Tutorial_Text_Market2_1",
+            "value": "Как продавать одежду&lt;size=120%&gt;①"
+        },
+        {
+            "key": "Tutorial_Text_Market2_2",
+            "value": "Попробуем продать только что сшитую одежду!"
+        },
+        {
+            "key": "Tutorial_Text_Market2_3",
+            "value": "Как продавать одежду&lt;size=120%&gt;②"
+        },
+        {
+            "key": "Tutorial_Text_Market2_4",
+            "value": "Сначала выберите одежду для продажи и нажмите на неё. Можно выбрать несколько"
+        },
+        {
+            "key": "Tutorial_Text_Market2_5",
+            "value": "Как продавать одежду&lt;size=120%&gt;③"
+        },
+        {
+            "key": "Tutorial_Text_Market2_6",
+            "value": "Выбрав одежду, нажмите \"Продать\" справа, чтобы выставить её на продажу!"
+        },
+        {
+            "key": "Tutorial_Text_Market3_1",
+            "value": "Как продавать одежду&lt;size=120%&gt;④"
+        },
+        {
+            "key": "Tutorial_Text_Market3_2",
+            "value": "Результаты ваших продаж будут объявлены завтра утром. Ждите!"
+        },
+        {
+            "key": "Tutorial_Text_Sex2_1",
+            "value": "Шкала эякуляции заполнена. Попробуйте нажать на неё!"
+        }
+    ]
+}
